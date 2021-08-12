@@ -1,1 +1,1 @@
-# statistics_python
+# pystats
